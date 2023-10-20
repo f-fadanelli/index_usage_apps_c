@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697759956 source:c:\users\paula\codeblocks\arquivos_indice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
